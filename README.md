@@ -2,7 +2,7 @@
 
 I'm a recent C.S graduate ([CSUN](https://csun.edu)) currently looking for work. Previously, I was an independent game developer, working on a wide variety of projects, both for-hire and for the [small studio](https://wefiends.com) I founded.
 
-My profile constains public repos of a wide variety of work, from native C++ libraries to full-stack SaaS apps.
+My profile contains public repos of a wide variety of work, from native C++ libraries to full-stack SaaS apps.
 
 Currently trying to become productive in Rust, building a weight training tracker with a wasm target frontend.
 
